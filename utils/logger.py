@@ -3,7 +3,7 @@ import sys
 import os
 
 # Create a logger
-logger = logging.getLogger("websearch")
+logger = logging.getLogger("WebHarvest-MCP")
 logger.setLevel(logging.DEBUG)
 
 # Console handler
